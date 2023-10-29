@@ -8,4 +8,4 @@
 
 ![](ifc-demo.gif)
 
->Made in FOSS4G 2024 Prizren.
+>Made in FOSS4G 2023 Prizren.
